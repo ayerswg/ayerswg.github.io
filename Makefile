@@ -1,12 +1,12 @@
 # Find all markdown files
-MARKDOWN=$(shell find . -iname "*.md")
+MARKDOWN=$(shell find . -iname "*.pmd")
 # Form all 'html' counterparts
-HTML=$(MARKDOWN:.md=.html)
+HTML=$(MARKDOWN:.pmd=.html)
 
 .PHONY = all tar clean
 all: $(HTML)
 
-%.html: %.md
+%.html: %.pmd
 	pandoc --from markdown --to html $< -o $@
 
 tar: $(MARKDOWN)
