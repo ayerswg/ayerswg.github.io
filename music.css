@@ -1,9 +1,20 @@
+div#siteheader a {
+  font-size:20px;
+  font-family:"Lato", sans-serif;
+  margin:5px;
+}
+
+div#main {
+  margin:auto;
+  padding:10px;
+  max-width:1000px;
+}
+
 body {
   margin:auto;
   padding:10px;
   font-size:13px;
   font-family:"Roboto mono", monospace; 
-  max-width:1000px;
   line-height:1.4em;
 }
 

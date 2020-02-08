@@ -7,7 +7,7 @@ HTML=$(MARKDOWN:.pmd=.html)
 all: $(HTML)
 
 %.html: %.pmd
-	pandoc --css music.css --from markdown --to html $< -o $@
+	pandoc --css music.css --template template.html --from markdown --to html $< -o $@
 
 tar: $(MARKDOWN)
 	tar --exclude=notes.tar.gz --exclude=.git/ -czvf notes.tar.gz ./
