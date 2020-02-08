@@ -22,6 +22,14 @@ h1.title {
   text-align: center;
 }
 
+h2.author {
+  text-align: center;
+}
+
+h3.date {
+  text-align: center;
+}
+
 .measure {
   white-space:nowrap;
   display:inline;
