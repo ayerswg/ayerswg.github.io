@@ -1,9 +1,24 @@
+header {
+  margin-top:50px;
+}
+
+div#siteheader a {
+  font-size:20px;
+  font-family:"Lato", sans-serif;
+  margin:5px;
+}
+
+div#main {
+  margin:auto;
+  padding:10px;
+  max-width:1000px;
+}
+
 body {
   margin:auto;
   padding:10px;
   font-size:13px;
   font-family:"Roboto mono", monospace; 
-  max-width:1000px;
   line-height:1.4em;
 }
 
@@ -11,8 +26,20 @@ h1.title {
   text-align: center;
 }
 
+h2.author {
+  text-align: center;
+}
+
+h3.date {
+  text-align: center;
+}
+
+div.tablature {
+  text-align:center;
+}
+
 .measure {
-  white-space:nowrap;
-  display:inline;
-  float:left;
+  font-family:monospace;
+  white-space:pre;
+  display:inline-block;
 }
