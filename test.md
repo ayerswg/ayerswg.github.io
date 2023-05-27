@@ -15,4 +15,4 @@ Some more text. What about *emphasis*? How does that work? Or even [hyperlinks](
 Or even checklists:
 
 - [ ] Here is item 1
-- [ ] Here js item 2
+- [x] Here is item 2
