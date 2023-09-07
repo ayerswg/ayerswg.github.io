@@ -1,7 +1,8 @@
-Testing a Post
+# Here is a title
 
-I'm wondering how well all of this works if I bold some things. Also, if I add a list:
+What _happens_ if I write all of this in plain text? The biggest problem will be lists:
 
-- One
-- Two
-- Three
++ Here is a list item
++ Here is another
+
+And then a **url** can be done like [this](https://www.google.com).
