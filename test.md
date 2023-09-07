@@ -1,18 +1,7 @@
-# Here is a header
+Testing a Post
 
-Here is a thing to say about *other* things.
+I'm wondering how well all of this works if I bold some things. Also, if I add a list:
 
-# Header 2
-
-## Sub header
-
-Some text
-
-## Another sub header
-
-Some more text. What about *emphasis*? How does that work? Or even [hyperlinks](https://www.google.com).
-
-Or even checklists:
-
-- [ ] Here is item 1
-- [x] Here is item 2
+	⁃	One
+	⁃	Two
+	⁃	Three
