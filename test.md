@@ -1,5 +1,3 @@
-% Is this a comment?
-
 ---
 title: Example GFM
 author: Liam
@@ -13,6 +11,7 @@ What _happens_ if I write all of this in plain text? The biggest problem will be
 
 + Here is a list item
 + Here is another
+++ Here is a sub item
 
 And then a **url** can be done like [this](https://www.google.com).
 
