@@ -25,7 +25,7 @@ And then there are block quotes:
 > Here is an important quote
 
 What about task lists?
-
+----------------------
 + [ ] Here is an item
 + [x] Here is a completed item
 
