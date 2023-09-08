@@ -33,4 +33,4 @@ There are also items that can be ~struck~ out.
 
 0. How about this as an ordered list?
 0. Then does everything become ordered?
-  a. Test
+   a. Test
