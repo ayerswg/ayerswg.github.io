@@ -6,6 +6,7 @@ author: Liam
 
 Here is a title
 ===============
+
 What _happens_ if I write all of this in plain text? The biggest problem will be lists:
 
 + Here is a list item
@@ -16,6 +17,7 @@ And then a **url** can be done like [this](https://www.google.com).
 
 What about tables?
 ------------------
+
 |Column A|Column B|Column C|
 |:-------|:-------|:-------|
 |Dog     |Cat     |Ferret  |
@@ -26,6 +28,7 @@ And then there are block quotes:
 
 What about task lists?
 ----------------------
+
 + [ ] Here is an item
 + [x] Here is a completed item
 
