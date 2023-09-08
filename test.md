@@ -36,5 +36,5 @@ There are also items that can be ~struck~ out.
 
 0. How about this as an ordered list?
 0. Then does everything become ordered?
-   0. Test
-   0. Again this
+  0. Test
+  0. Again this
