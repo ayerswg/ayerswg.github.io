@@ -34,7 +34,7 @@ What about task lists?
 
 There are also items that can be ~struck~ out.
 
-0. How about this as an ordered list?
-0. Then does everything become ordered?
-   0. Test
-   0. Again this
+1. How about this as an ordered list?
+2. Then does everything become ordered?
+   1. Test
+   2. Again this
