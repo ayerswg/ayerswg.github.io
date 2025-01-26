@@ -1,5 +1,6 @@
 title: The Simple Setup
 author: John Doe
+description: Info about simple setups
 theme: minima
 header_pages:
   - about.md
