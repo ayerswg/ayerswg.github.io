@@ -1,2 +1,4 @@
 title: The Simple Setup
 theme: minima
+header_pages:
+  - about.md
