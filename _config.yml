@@ -1,4 +1,7 @@
 title: The Simple Setup
+author:
+  name: John Doe
+  email: no-reply@gmail.com
 theme: minima
 header_pages:
   - about.md
