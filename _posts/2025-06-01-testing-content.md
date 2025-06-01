@@ -1,5 +1,5 @@
 ---
-date: 2025-06-01
+layout: post
 title: "Testing Posts"
 categories: tests
 authors: Liam Sreya
