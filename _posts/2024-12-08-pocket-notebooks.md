@@ -1,6 +1,7 @@
 ---
 title: "Pocket Notebooks"
 layout: post
+categories: virtuous
 ---
 
 # Pocket Notebooks

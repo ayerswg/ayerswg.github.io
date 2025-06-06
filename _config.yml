@@ -1,8 +1,17 @@
-title: The Simple Setup
-author: John Doe
-description: Info about simple setups
-theme: minima
-header_pages:
-  - about.md
-minima:
-  skin: dark
+title: Your Site Title
+description: A minimal mistakes Jekyll site
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+# Optional extras
+author:
+  name: Your Name
+
+# Enable caching for GitHub Pages
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: single
