@@ -1,7 +1,7 @@
 ---
 title: "Pocket Notebooks"
 layout: post
-categories: virtuous
+collections: virtuous
 ---
 
 # Pocket Notebooks
