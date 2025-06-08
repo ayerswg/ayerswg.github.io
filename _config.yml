@@ -12,5 +12,6 @@ author:
 defaults:
   - scope:
       path: ""
+      type: posts
     values:
-      layout: splash
+      comments: true
