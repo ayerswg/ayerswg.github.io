@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- iPod body -->
+  <rect x="0" y="0" width="200" height="200" rx="10" fill="black" />
+
+  <!-- Control ring (white circle) -->
+  <circle cx="100" cy="100" r="70" fill="white" />
+
+  <!-- Inner circle (black, surrounding the play/pause button) -->
+  <circle cx="100" cy="100" r="35" fill="black" />
+
+  <!-- Play/Pause (triangle and bar) -->
+  <polygon points="85,85 85,115 105,100" fill="white" />
+  <rect x="110" y="88" width="6" height="24" fill="white" />
+
+  <!-- Plus symbol -->
+  <rect x="98" y="40" width="4" height="12" fill="black" />
+  <rect x="94" y="44" width="12" height="4" fill="black" />
+
+  <!-- Minus symbol -->
+  <rect x="90" y="154" width="20" height="4" fill="black" />
+
+  <!-- Next track (right arrows + spacing + vertical alignment) -->
+  <polygon points="142,90 150,100 142,110" fill="black" />
+  <polygon points="152,90 160,100 152,110" fill="black" />
+
+  <!-- Previous track (left arrows + spacing + vertical alignment) -->
+  <polygon points="58,100 66,90 66,110" fill="black" />
+  <polygon points="68,100 76,90 76,110" fill="black" />
+</svg>
