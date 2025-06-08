@@ -15,3 +15,5 @@ defaults:
       type: posts
     values:
       comments: true
+
+search: true
