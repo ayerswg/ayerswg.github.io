@@ -1,17 +1,16 @@
-title: Your Site Title
-description: A minimal mistakes Jekyll site
+title: The Simple Setup
+description: Set things up simply
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
 # Optional extras
 author:
-  name: Your Name
+  name: Liam Sreya
 
 # Enable caching for GitHub Pages
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
-      layout: archive
+      layout: splash
