@@ -4,11 +4,9 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
-# Optional extras
 author:
   name: Liam Sreya
 
-# Enable caching for GitHub Pages
 defaults:
   - scope:
       path: ""
