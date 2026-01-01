@@ -1,0 +1,10 @@
+# Writing Music
+
+I've been playing around with a number of different options for writing music. I wanted to explain their benefits and drawbacks based on my experience so far, especially from the perspective of someone who codes.
+
+## abcjs
+
+Believe it or not, there is actually a markdown-type shorthand for writing music. abcjs is quite simple to learn, easy to write, and will actually get you pretty far. For me, it starts breaking down though at a couple of key points:
+
+1. When trying to prepare for print.
+2. When trying to tie it to more professional sounding instruments

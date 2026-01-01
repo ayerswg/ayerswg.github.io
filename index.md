@@ -9,3 +9,9 @@ Like talking about a:
 - Dog
 - Cat
 - Mouse
+
+This is the crazy thing:
+
+> The best thing to happen is that the computer will not let me run it through a keyboard.
+
+

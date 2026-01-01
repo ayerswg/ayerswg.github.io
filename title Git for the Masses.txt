@@ -1,0 +1,6 @@
+---
+title: Git for the Masses
+date: 2025-09-01
+---
+
+The problem with git is that you need to know too much to use it. Most people, when they deal with version control on their computer, are only dealing in either the concept of copying a file and editing it, or in using something like track changes in Microsoft products. Instead of viewing at least the tendency to make `Final Final Version No Kidding 2025-09-01_JohnDoe.doc` as an anti-pattern, we should consider that 
